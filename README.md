@@ -1,0 +1,2 @@
+# invento
+incentory management project
